@@ -1,0 +1,9 @@
+h1 {
+    align-items: center;
+    color: red;
+}
+
+p {
+    align-items: flex-start;
+    color: black;
+}
